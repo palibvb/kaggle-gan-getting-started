@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce783a21-8a05-4d8c-8959-e8941a87281c" name="Default Changelist" comment="" />
+    <list default="true" id="ce783a21-8a05-4d8c-8959-e8941a87281c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/kaggle-gan-getting-started.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kaggle-gan-getting-started.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

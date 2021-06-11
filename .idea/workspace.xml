@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce783a21-8a05-4d8c-8959-e8941a87281c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/kaggle-gan-getting-started.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kaggle-gan-getting-started.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +31,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tnDlM5C2BOlswdK6ypS0f6l963" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -91,16 +91,5 @@
       <screen x="0" y="25" width="1680" height="945" />
     </state>
     <state x="349" y="133" key="SettingsEditor/1680.25.1920.1055/0.25.1680.945@0.25.1680.945" timestamp="1623396260235" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
